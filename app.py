@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 27 16:33:16 2021
 
-@author: praneeth
+
+@author: hamzafarooq@
 """
 
 import streamlit as st
